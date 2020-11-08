@@ -2014,6 +2014,26 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+.search-field
+{
+  margin-left:120px;
+  border-radius: 20px;
+  height: 50px;
+  width: 600px;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.search-btn
+{
+  border-radius:20px;
+  height: 50px;
+  width:100px;
+  margin-left:10px;
+  font-size:20px;
+  cursor:pointer;
+}
+
 #footer {
   color: #fff;
   font-size: 14px;
